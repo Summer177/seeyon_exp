@@ -34,9 +34,13 @@ Options:
   -f FILE, --file=FILE  url file
   --att                 getshell
 ```
-```python3 seeyon_exp.py -u url```
+```
+python3 seeyon_exp.py -u url
+```
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1622621523227-5ef552da-4bf2-4a98-ba4c-0c16292dcc8d.png#align=left&display=inline&height=463&margin=%5Bobject%20Object%5D&name=image.png&originHeight=925&originWidth=1219&size=140406&status=done&style=none&width=609.5)
-```python3 seeyon_exp.py -u url  --att```
+```
+python3 seeyon_exp.py -u url  --att
+```
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1622625176126-20a05004-b3e4-4188-acbf-c307f661fff5.png#align=left&display=inline&height=462&margin=%5Bobject%20Object%5D&name=image.png&originHeight=924&originWidth=1218&size=138710&status=done&style=none&width=609)
 </br>
 </br>
