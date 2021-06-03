@@ -5,9 +5,9 @@ import requests
 def result(name,payload,info=None):
 	f=open('result.txt','a')
 	if info:
-		f.write(name+':	'+payload+'	'+info+'\n')
+		f.write(name+':    '+payload+'    '+info+'\n')
 	else:
-		f.write(name+':	'+payload+'\n')
+		f.write(name+':    '+payload+'\n')
 	f.close()
 
 def start_echo(name):
