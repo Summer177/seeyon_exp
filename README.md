@@ -1,6 +1,6 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1622620222886-f40c9762-35e8-4547-9004-ecd3d8e52294.png#align=left&display=inline&height=178&margin=%5Bobject%20Object%5D&name=image.png&originHeight=356&originWidth=907&size=18656&status=done&style=none&width=453.5)
 # 工具介绍
-收录漏洞如下：
+致远OA漏洞检查与利用工具，收录漏洞如下：
 ```
 信息泄露：
 致远OA A8 状态监控页面信息泄露
@@ -46,3 +46,6 @@ python3 seeyon_exp.py -u url  --att
 ```
 https://github.com/PeiQi0/PeiQi-WIKI-POC/tree/PeiQi/PeiQi_Wiki/OA%E4%BA%A7%E5%93%81%E6%BC%8F%E6%B4%9E/%E8%87%B4%E8%BF%9COA
 ```
+
+
+**仅用于授权测试,违者后果自负**
