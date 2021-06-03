@@ -43,8 +43,9 @@ python3 seeyon_exp.py -u url  --att
 
 
 使用批量扫描时，建议先筛选出存活url
+
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1622621416294-5f5bdf2a-da76-403b-9cd2-5e5befbb6feb.png#align=left&display=inline&height=492&margin=%5Bobject%20Object%5D&name=image.png&originHeight=985&originWidth=1605&size=287992&status=done&style=none&width=802.5)
 参考链接：
 ```
 https://github.com/PeiQi0/PeiQi-WIKI-POC/tree/PeiQi/PeiQi_Wiki/OA%E4%BA%A7%E5%93%81%E6%BC%8F%E6%B4%9E/%E8%87%B4%E8%BF%9COA
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/603531/1622621416294-5f5bdf2a-da76-403b-9cd2-5e5befbb6feb.png#align=left&display=inline&height=492&margin=%5Bobject%20Object%5D&name=image.png&originHeight=985&originWidth=1605&size=287992&status=done&style=none&width=802.5)
